@@ -1,0 +1,30 @@
+[
+  {
+    "company": "Qualcomm",
+    "roles": [
+      {
+        "title": "Embedded Engineer",
+        "skills": ["C", "Microcontrollers"],
+        "eligibility": {
+          "cgpa": 7.0,
+          "branches": ["ECE", "EEE"]
+        }
+      }
+    ]
+  },
+  {
+    "company": "Microsoft",
+    "roles": [
+      {
+        "title": "SDE Intern",
+        "skills": ["DSA", "System Design"],
+        "eligibility": {
+          "cgpa": 8.0,
+          "branches": ["CSE", "IT"]
+        }
+      }
+    ]
+  }
+]
+
+  

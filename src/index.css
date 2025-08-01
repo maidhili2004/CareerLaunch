@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background-color: #f4f6f8;
+    color: #1f2937;
+  }
+
+  a {
+    @apply transition-colors duration-200;
+  }
+}

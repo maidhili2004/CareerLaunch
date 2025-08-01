@@ -1,0 +1,17 @@
+[
+    {
+      "question": "What is a pointer?",
+      "options": [
+        "A variable that stores memory address",
+        "An operator",
+        "A function call"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "What is time complexity of binary search?",
+      "options": ["O(n)", "O(n log n)", "O(log n)", "O(1)"],
+      "correct": 2
+    }
+  ]
+  

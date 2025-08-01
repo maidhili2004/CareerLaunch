@@ -1,0 +1,27 @@
+{
+    "Qualcomm_Embedded": [
+      {
+        "topic": "C Programming",
+        "duration": "2 weeks",
+        "resources": ["https://www.learn-c.org/", "https://cs50.harvard.edu/"]
+      },
+      {
+        "topic": "8051 Microcontroller",
+        "duration": "1.5 weeks",
+        "resources": ["https://microcontrollerslab.com/introduction-8051/"]
+      }
+    ],
+    "Microsoft_SDE": [
+      {
+        "topic": "Data Structures & Algorithms",
+        "duration": "4 weeks",
+        "resources": ["https://neetcode.io/", "https://leetcode.com/"]
+      },
+      {
+        "topic": "System Design Basics",
+        "duration": "2 weeks",
+        "resources": ["https://github.com/donnemartin/system-design-primer"]
+      }
+    ]
+  }
+  
